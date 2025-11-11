@@ -1,8 +1,4 @@
 # TugasPromlan-Dicky
-# JavaFX MVC Template
-
-Template proyek JavaFX dengan pola Model-View-Controller (MVC) yang siap digunakan.
-
 ## Konfigurasi
 
 - **Java**: 25
